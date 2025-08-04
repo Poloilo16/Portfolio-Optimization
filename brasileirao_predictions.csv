@@ -1,0 +1,21 @@
+team,current_position,predicted_position,position_change,points,goal_difference
+Internacional,2,-1.6,3.6,61,32
+Grêmio,1,0.6,0.4,66,31
+Bahia,6,1.7,4.3,44,35
+Fortaleza,4,3.7,0.3,48,12
+EC Vitória,3,3.8,-0.8,52,25
+Atlético-MG,5,5.0,0.0,44,34
+Juventude,7,6.8,0.2,42,13
+Atlético-PR,8,9.8,-1.8,33,14
+Corinthians,9,9.9,-0.9,32,-2
+Cuiabá,10,10.0,-0.0,32,11
+Atlético-GO,11,10.5,0.5,29,16
+Bragantino,12,12.0,-0.0,27,30
+Cruzeiro,13,12.6,0.4,27,9
+Palmeiras,14,13.0,1.0,25,15
+Flamengo,15,14.9,0.1,25,13
+Botafogo,16,15.6,0.4,24,20
+São Paulo,17,17.8,-0.8,15,7
+Fluminense,18,18.4,-0.4,14,9
+Criciúma,19,18.5,0.5,13,11
+Vasco da Gama,20,19.6,0.4,10,-8
